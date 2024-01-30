@@ -1,0 +1,1 @@
+A simple project management app with drag and drop functionallity.
